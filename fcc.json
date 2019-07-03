@@ -1,0 +1,24 @@
+https://data.fcc.gov/api/license-view/basicSearch/getLicenses?searchValue=ab3ww&format=json
+
+{
+	"status":"OK",
+	"Licenses":{
+		"page":"1",
+		"rowPerPage":"100",
+		"totalRows":"1",
+		"lastUpdate":"Jun 29, 2019",
+		"License":[
+			{
+				"licName":"McParland, Joseph E",
+				"frn":"0003435047",
+				"callsign":"AB3WW",
+				"categoryDesc":"Personal Use",
+				"serviceDesc":"Amateur",
+				"statusDesc":"Active",
+				"expiredDate":"06/25/2024",
+				"licenseID":"3679808",
+				"licDetailURL":"http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?__newWindow=false&licKey=3679808"
+			}
+		]
+	}
+}
