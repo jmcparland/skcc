@@ -21,7 +21,7 @@ Each FCC license record returned has a field `statusDesc` indicating if the lice
 
 Since the script is heavily I/O bound with REST calls against the FCC API, the script in its current form is naively multithreaded, launching eight threads to handle an input queue of callsigns to make the execution CPU-bound instead. Each thread maintains its own connection to the database, and the script relies on the database to deconflict access. The script completes in approximately 2.5 hours on a single CPU AWS "micro" instance in Oregon.
 
-N.B.: The script has a few hard-coded values (e.g., 30k queue slots for processing knowing there are currently ~20k members) that should be replaced. Data handling assumes the membership fits in memory for callsign extraction. Queue resubmissions are thrown to the back of the queue without checking if the queue is full. There is no exception handling. Etc. Etc. It's a hack :-)
+N.B.: The script has a few hard-coded values (e.g., 30k queue slots for processing knowing there are currently ~20k members) that should be replaced. Data handling assumes the membership fits in memory for callsign extraction. Queue resubmissions are thrown to the back of the queue without checking if the queue is full. There is no exception handling. There is a possible race condition wherein a thread would resubmit a callsign for processing after the parent process has determined there is no more work to do (queue empty). Etc. Etc. It's a hack :-)
 
 ## The SKCC Membership Schema (in sqlite3 notation)
 ```
