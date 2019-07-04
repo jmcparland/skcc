@@ -1,0 +1,2573 @@
+     skccnr = 58T
+       call = W5PJW
+       name = Mark
+    mbrdate = 11 Jan 2006
+    licName = EWING, WALTER G
+        frn = 0013605308
+  licenseID = 805800
+fcc_comment = Licensee deceased 8/17/09 (WT Docket 09-209). rrw
+
+     skccnr = 74
+       call = KA0IQT
+       name = Jim
+    mbrdate = 11 Jan 2006
+    licName = JOHNS JR, JAMES R
+        frn = 0003530060
+  licenseID = 272641
+fcc_comment = Per case 584639, licensee deceased 3/27/19.rrw
+
+     skccnr = 213C
+       call = NA0L
+       name = RJ
+    mbrdate = 15 Jan 2006
+    licName = Lorenzen, Richard J
+        frn = 0013484993
+  licenseID = 2832271
+fcc_comment = Licensee deceased on 09/07/2017. krk
+
+     skccnr = 218
+       call = WV1K
+       name = Central Connecticut Contest Club
+    mbrdate = 15 Jan 2006
+    licName = CASSARINO, MATTHEW J
+        frn = 0004892246
+  licenseID = 936666
+fcc_comment = Licensee deceased 12/14/11 (WT Docket 09-209).rrrw
+
+     skccnr = 432
+       call = AC3P
+       name = Frank
+    mbrdate = 17 Jan 2006
+    licName = STONE JR, FRANCIS I
+        frn = 0003329398
+  licenseID = 222923
+fcc_comment = Per case #HD0000002954180, licensee deceased 06/23/2015. krk
+
+     skccnr = 440
+       call = K7IE
+       name = Clair
+    mbrdate = 17 Jan 2006
+    licName = BRUCE, CLARENCE M
+        frn = 0011639838
+  licenseID = 260363
+fcc_comment = Per case #HD0000002898980, licensee deceased 08/23/2011. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 455
+       call = K3JA
+       name = Flav
+    mbrdate = 17 Jan 2006
+    licName = JANKAUSKAS, FLAVIUS Z
+        frn = 0003386638
+  licenseID = 241294
+fcc_comment = Licensee deceased 11/6/14. License cancelled in accordance with FCC Rule 97.97(c)(3).rrw
+
+     skccnr = 521
+       call = W0AUR
+       name = Tom
+    mbrdate = 17 Jan 2006
+    licName = Meyer, George A
+        frn = 0014439236
+  licenseID = 775660
+fcc_comment = Licensee deceased 11/21/12. License cancelled pursuant to 97.19(c)(3).rrw
+
+     skccnr = 536C
+       call = W6FU
+       name = Ken
+    mbrdate = 17 Jan 2006
+    licName = Johnson, A Kenneth
+        frn = 0002729564
+  licenseID = 809794
+fcc_comment = Licensee deceased 10/2/09 (WT Docket 09-209). rrw
+
+     skccnr = 541
+       call = WF5W
+       name = Cal
+    mbrdate = 17 Jan 2006
+    licName = WHITE, CALVIN G
+        frn = 0002312254
+  licenseID = 924316
+fcc_comment = Per case #HD0000516172, licensee deceased 02/19/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 596
+       call = W5SIO
+       name = Jim
+    mbrdate = 18 Jan 2006
+    licName = Rudd Sr, James W
+        frn = 0007777386
+  licenseID = 806543
+fcc_comment = Per case 2722377, licensee deceased 2/19/16.rrw
+
+     skccnr = 718
+       call = KA4TXY
+       name = Dave
+    mbrdate = 20 Jan 2006
+    licName = GARRETT JR, STUART D
+        frn = 0003247525
+  licenseID = 298978
+fcc_comment = Licensee deceased 3/21/19.rrw
+
+     skccnr = 766
+       call = K5QO
+       name = Mike
+    mbrdate = 20 Jan 2006
+    licName = FULLER, JAMES M
+        frn = 0004759304
+  licenseID = 2440232
+fcc_comment = Licensee deceased 9/1/12 (WT Docket 09-209).rrw
+
+     skccnr = 908
+       call = NY2V
+       name = Fred
+    mbrdate = 25 Jan 2006
+    licName = ADSIT, FREDERICK V
+        frn = 0003555729
+  licenseID = 775102
+fcc_comment = Per case #HD0000003042098, licensee deceased 09/19/2013. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 941
+       call = K2LK
+       name = Rich
+    mbrdate = 25 Jan 2006
+    licName = MESCANTI, WILLIAM T
+        frn = 0015415755
+  licenseID = 238125
+fcc_comment = Per case #HD0000444774, licensee deceased 04/09/2007. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 950
+       call = W6BNB
+       name = Robert
+    mbrdate = 26 Jan 2006
+    licName = Shrader, Robert L
+        frn = 0010671584
+  licenseID = 808677
+fcc_comment = Licensee deceased 4/11/12. rrw
+
+     skccnr = 1085
+       call = AF2C
+       name = Jay
+    mbrdate = 29 Jan 2006
+    licName = MUSIKAR, JAY B
+        frn = 0003514619
+  licenseID = 226312
+fcc_comment = Licensee deceased 12/30/2015. krk
+
+     skccnr = 1160
+       call = W0NGV
+       name = Ken
+    mbrdate = 31 Jan 2006
+    licName = DANIELS, KENNETH L
+        frn = 0002391019
+  licenseID = 778313
+fcc_comment = Licensee deceased 11/27/11. rrw
+
+     skccnr = 1210
+       call = W2PX
+       name = Bill
+    mbrdate = 31 Jan 2006
+    licName = COFFEY, WILLIAM N
+        frn = 0003066610
+  licenseID = 788932
+fcc_comment = Per case #HD0000434477, licensee deceased 04/15/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 1249
+       call = W5CFN
+       name = Ron
+    mbrdate = 31 Jan 2006
+    licName = CRON, RONALD G
+        frn = 0001966332
+  licenseID = 802835
+fcc_comment = Licensee deceased 4/26/12. License cancelled in accordance with Commission rule 97.19(c)(3)rrw
+
+     skccnr = 1355
+       call = W4RL
+       name = Robert
+    mbrdate = 07 Feb 2006
+    licName = LAWSON, ROBERT W
+        frn = 0005053970
+  licenseID = 800170
+fcc_comment = Per case #HD0000532944, licensee deceased 07/01/2018. krk
+
+     skccnr = 1404
+       call = WA4VSH
+       name = Joe
+    mbrdate = 09 Feb 2006
+    licName = Smith Iii, Joseph B
+        frn = 0002572675
+  licenseID = 851707
+fcc_comment = Licensee deceased 3/16/11 (WT Docket 09-209).rrw
+
+     skccnr = 1432
+       call = WA3YLO
+       name = Tony
+    mbrdate = 09 Feb 2006
+    licName = YOUNG, ANTHONY
+        frn = 0006522015
+  licenseID = 845694
+fcc_comment = Licensee deceased 01/21/2018. krk
+
+     skccnr = 1488
+       call = K9ZT
+       name = Bud
+    mbrdate = 14 Feb 2006
+    licName = MORIN JR, DORNIS C
+        frn = 0011810330
+  licenseID = 270963
+fcc_comment = Per Case HD0000554947, licensee deceased 11/17/16.  License cancelled pursuant to FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 1503
+       call = WD5DZG
+       name = Bill
+    mbrdate = 14 Feb 2006
+    licName = Paschall, William R
+        frn = 0002646255
+  licenseID = 915921
+fcc_comment = Licensee deceased 11/6/13.rrw
+
+     skccnr = 1518
+       call = KQ6Q
+       name = Fred
+    mbrdate = 16 Feb 2006
+    licName = WAGNER IV, FREDERICK H
+        frn = 0001872795
+  licenseID = 621695
+fcc_comment = Per case #HD0000003043978, licensee deceased 04/02/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 1662
+       call = W0EKS
+       name = Jack
+    mbrdate = 28 Feb 2006
+    licName = Bravis, John H
+        frn = 0002370369
+  licenseID = 776451
+fcc_comment = Licensee deceased on 01/02/2017. krk
+
+     skccnr = 1730
+       call = K4IKR
+       name = Don
+    mbrdate = 03 Mar 2006
+    licName = CHRISTIAN, DONALD L
+        frn = 0008244725
+  licenseID = 2850589
+fcc_comment = Per case #HD0000002806140, licensee deceased November 18, 2011. License cancelled in accordance with FCC Rule 97.19(c)(3). krk
+
+     skccnr = 1871
+       call = W7ND
+       name = Frank
+    mbrdate = 23 Mar 2006
+    licName = CONNELLY, FRANK J
+        frn = 0002076271
+  licenseID = 818762
+fcc_comment = Licensee deceased 10/10/11.rrw
+
+     skccnr = 1887
+       call = K8DD
+       name = Port Huron Area Repeater Team
+    mbrdate = 26 Mar 2006
+    licName = KOHL, HENRY R
+        frn = 0003364734
+  licenseID = 263665
+fcc_comment = Licensee deceased 11/13/10. rrw
+
+     skccnr = 1937
+       call = W1VVX
+       name = Dick
+    mbrdate = 30 Mar 2006
+    licName = BLANCHARD II, RICHARD O
+        frn = 0005040001
+  licenseID = 3491266
+fcc_comment = Licensee deceased 12/19/18.rrw
+
+     skccnr = 1941T
+       call = K4UK
+       name = Stan
+    mbrdate = 30 Mar 2006
+    licName = REAS, STANLEY R
+        frn = 0003106408
+  licenseID = 249166
+fcc_comment = Licensee deceased on October 5th, 2016. krk
+
+     skccnr = 2079T
+       call = N0JL
+       name = Jim
+    mbrdate = 09 May 2006
+    licName = Lasley, James M
+        frn = 0002342996
+  licenseID = 630605
+fcc_comment = Licensee deceased on 11/28/2017. krk
+
+     skccnr = 2126T
+       call = W6WG
+       name = Ron
+    mbrdate = 21 May 2006
+    licName = GREEN, PAUL L
+        frn = 0014996680
+  licenseID = 814703
+fcc_comment = Per case #HD0000003051206, licensee deceased 02/23/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 2219
+       call = W4VAH
+       name = Bill
+    mbrdate = 30 Jun 2006
+    licName = HARDEN, WILLIAM J
+        frn = 0012552188
+  licenseID = 801227
+fcc_comment = Licensee deceased 1/18/10 (WT Docket 09-209).rrw
+
+     skccnr = 2272
+       call = W6LOC
+       name = Allen
+    mbrdate = 03 Sep 2006
+    licName = LARSEN, HARRY J
+        frn = 0016703365
+  licenseID = 811449
+fcc_comment = Per case #HD0000487489, licensee deceased 09/27/2016. krk
+
+     skccnr = 2275
+       call = N0LXS
+       name = Charlie
+    mbrdate = 03 Sep 2006
+    licName = LEVAD, CHARLES H
+        frn = 0002310894
+  licenseID = 632064
+fcc_comment = Licensee deceased 12/25/10. rrw
+
+     skccnr = 2522
+       call = N8ZR
+       name = Harry
+    mbrdate = 31 Dec 2006
+    licName = Putman, Steven O
+        frn = 0016588766
+  licenseID = 752791
+fcc_comment = Licensee deceased 10/5/14.  License cancelled pusuant to Rule 97.19(c)(3).rrw
+
+     skccnr = 2577
+       call = K4IZ
+       name = Detrick
+    mbrdate = 06 Jan 2007
+    licName = SKEEN, JAMES G
+        frn = 0014889489
+  licenseID = 246337
+fcc_comment = Per case #HD0000003043617, licensee deceased 09/12/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 2620
+       call = W7QS
+       name = Gary
+    mbrdate = 07 Jan 2007
+    licName = Engard, Gary W
+        frn = 0013672019
+  licenseID = 2779677
+fcc_comment = Per case #HD0000003027891, licensee deceased 08/12/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 2649
+       call = K1VM
+       name = George
+    mbrdate = 07 Jan 2007
+    licName = DOYLE, GEORGE W
+        frn = 0003643509
+  licenseID = 235840
+fcc_comment = Per case #HD0000442334, licensee deceased on 06/09/2016. krk
+
+     skccnr = 2669
+       call = W9AH
+       name = Sam
+    mbrdate = 07 Jan 2007
+    licName = PAUL, SAMUEL F
+        frn = 0012824785
+  licenseID = 826016
+fcc_comment = Per case #HD0000362737, licensee deceased 05/01/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 2789
+       call = W5FIT
+       name = Sanford
+    mbrdate = 22 Jan 2007
+    licName = MUSGROVE, SANFORD A
+        frn = 0009550914
+  licenseID = 803563
+fcc_comment = Licensee deceased 1/25/14.rrw
+
+     skccnr = 2810
+       call = K5UBS
+       name = Oscar
+    mbrdate = 25 Jan 2007
+    licName = Hoyt III, Oscar A
+        frn = 0010995090
+  licenseID = 253701
+fcc_comment = Per FN 0008416552, licensee deceased on April 5, 2018. krk
+
+     skccnr = 2835
+       call = W1CFZ
+       name = CHAS
+    mbrdate = 26 Jan 2007
+    licName = PITTS, RUSSELL S
+        frn = 0004919379
+  licenseID = 781151
+fcc_comment = Licensee deceased 9/5/10. rrw
+
+     skccnr = 2872
+       call = KB2E
+       name = Chuck
+    mbrdate = 31 Jan 2007
+    licName = BRUMLEY, CHARLES K
+        frn = 0010703460
+  licenseID = 342214
+fcc_comment = Licensee deceased 02/20/2010. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 2942
+       call = W9BRD
+       name = Dave
+    mbrdate = 24 Feb 2007
+    licName = NEWKIRK, RODNEY H
+        frn = 0007247331
+  licenseID = 826336
+fcc_comment = Licensee deceased 11/19/12 per case 2299462.rrw
+
+     skccnr = 2939
+       call = K4FPF
+       name = Paul
+    mbrdate = 13 Feb 2007
+    licName = VALENTINO, PAUL H
+        frn = 0003193968
+  licenseID = 245242
+fcc_comment = Licensee is deceased 05/23/2015. krk
+
+     skccnr = 3026
+       call = K5IX
+       name = Dave
+    mbrdate = 24 Mar 2007
+    licName = HORNBURG, CHARLES F
+        frn = 0005621057
+  licenseID = 251829
+fcc_comment = Licensee deceased 8/16/12  (WT Docket 09-209).rrw
+
+     skccnr = 3061T
+       call = WW5G
+       name = Ron
+    mbrdate = 16 Apr 2007
+    licName = Baker, Ronald E
+        frn = 0006891956
+  licenseID = 3086199
+fcc_comment = Per case #HD0000003020495, licensee deceased 01/23/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 3224
+       call = N5SM
+       name = Scott
+    mbrdate = 16 Jun 2007
+    licName = MC DOWELL, W SCOTT
+        frn = 0004727525
+  licenseID = 706621
+fcc_comment = Per case 614547, licensee deceased 10/19/16.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 3356
+       call = WY4O
+       name = Jerry
+    mbrdate = 07 Aug 2007
+    licName = JAMES, JERRY W
+        frn = 0002595171
+  licenseID = 937615
+fcc_comment = Per case #HD0000389672, licensee deceased 09/13/2009. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 3469
+       call = W7QM
+       name = Allen
+    mbrdate = 23 Sep 2007
+    licName = RIVERS SR, ALLEN L
+        frn = 0002087641
+  licenseID = 819314
+fcc_comment = Per case #HD0000003027877, licensee deceased on 12/23/2015. krk
+
+     skccnr = 3491
+       call = KF3CV
+       name = Steve
+    mbrdate = 22 Nov 2007
+    licName = Wolf, Stephen N
+        frn = 0003352887
+  licenseID = 566845
+fcc_comment = Licensee deceased 4/11/09 (WT Docket 09-209). rrw
+
+     skccnr = 3552S
+       call = W1OOO
+       name = John
+    mbrdate = 18 Oct 2007
+    licName = Frazier, John W
+        frn = 0009786013
+  licenseID = 783729
+fcc_comment = Per case #HD0000002885405, licensee deceased 03/18/2015. krk
+
+     skccnr = 3587
+       call = W8TV
+       name = Jim
+    mbrdate = 28 Oct 2007
+    licName = Fisher, Wayne S
+        frn = 0012175493
+  licenseID = 2720288
+fcc_comment = Licensee deceased 12/9/08 (WT Docket 09-209).rrw
+
+     skccnr = 3644
+       call = K6VLH
+       name = Joe
+    mbrdate = 19 Nov 2007
+    licName = Deas Jr, Joe V
+        frn = 0014578611
+  licenseID = 258669
+fcc_comment = Per case 2777836, licensee deceased 9/19/15.rrw
+
+     skccnr = 3679
+       call = AA6R
+       name = Gary
+    mbrdate = 24 Nov 2007
+    licName = EVANS, GARY H
+        frn = 0017714759
+  licenseID = 218360
+fcc_comment = Per case #HD0000511534, licensee deceased 08/23/2017. krk
+
+     skccnr = 3767
+       call = NO0N
+       name = Barney
+    mbrdate = 12 Dec 2007
+    licName = ROTHENHOEFER, IRA B
+        frn = 0002277994
+  licenseID = 771685
+fcc_comment = Licensee deceased 6/12/13.rrw
+
+     skccnr = 3908
+       call = W2EP
+       name = Paul
+    mbrdate = 02 Jan 2008
+    licName = SELLITTO, PAUL D
+        frn = 0010981777
+  licenseID = 2857132
+fcc_comment = Per case #HD0000444989, licensee deceased 09/30/2011. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 3923
+       call = NW2A
+       name = Joe
+    mbrdate = 04 Jan 2008
+    licName = MC CLUSKY, JOSEPH G
+        frn = 0003569605
+  licenseID = 774612
+fcc_comment = Per case 519174, licensee deceased 6/4/15. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 3930
+       call = K2MYS
+       name = Bob
+    mbrdate = 04 Jan 2008
+    licName = SHAPIRO, ROBERT R
+        frn = 0013664560
+  licenseID = 238393
+fcc_comment = Per case #HD0000003035032, licensee deceased on 04/14/2017. krk
+
+     skccnr = 3938
+       call = WA4NLW
+       name = Ray
+    mbrdate = 04 Jan 2008
+    licName = COOK, RAYMOND W
+        frn = 0003139292
+  licenseID = 849450
+fcc_comment = Per case #HD0000486848, licensee deceased 04/04/2018. krk
+
+     skccnr = 3985
+       call = KO5DX
+       name = Larry
+    mbrdate = 08 Jan 2008
+    licName = WISE, LARRY J
+        frn = 0003006293
+  licenseID = 3142131
+fcc_comment = Licensee deceased on 12/25/2016. krk
+
+     skccnr = 3997
+       call = W5IBZ
+       name = Lou
+    mbrdate = 10 Jan 2008
+    licName = GEIS JR, LOUIS B
+        frn = 0003578978
+  licenseID = 1065611
+fcc_comment = Licensee deceased 5/3/13.rrw
+
+     skccnr = 4136
+       call = W4AT
+       name = Claude
+    mbrdate = 30 Jan 2008
+    licName = Hennessey, Charles W
+        frn = 0007169907
+  licenseID = 795048
+fcc_comment = Licensee deceased 12/29/10. rrw
+
+     skccnr = 4210T
+       call = WA6L
+       name = John
+    mbrdate = 21 Feb 2008
+    licName = GRAF, JOHN M
+        frn = 0010981959
+  licenseID = 2881209
+fcc_comment = Per Case 2675258, icensee deceased 12/17/12. License cancelled pursuant to Rule 97.19(c)(3).rrw
+
+     skccnr = 4248
+       call = K1VU
+       name = Robert
+    mbrdate = 03 Mar 2008
+    licName = Johnson, Robert E
+        frn = 0003654654
+  licenseID = 1988736
+fcc_comment = Per case #HD0000545233, licensee deceased 09/08/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 4310
+       call = KR8W
+       name = Gerry
+    mbrdate = 01 Apr 2008
+    licName = HERMAN, GERALD J
+        frn = 0017600909
+  licenseID = 3067078
+fcc_comment = Licensee deceased 05/02/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 4385
+       call = NT4D
+       name = Jay
+    mbrdate = 24 Apr 2008
+    licName = BROOKOVER, JAMEY C
+        frn = 0003241445
+  licenseID = 773979
+fcc_comment = Per case #HD0000003043845, licensee deceased 10/08/2016. krk
+
+     skccnr = 4595
+       call = W4VAB
+       name = Hugh
+    mbrdate = 16 Jul 2008
+    licName = Morgan, Hugh W
+        frn = 0011306263
+  licenseID = 801223
+fcc_comment = Per case #HD0000002821060, licensee deceased 08/10/2016. krk
+
+     skccnr = 4689
+       call = WJ4Q
+       name = Terry
+    mbrdate = 25 Aug 2008
+    licName = MAKINSON, LEROY D
+        frn = 0015869167
+  licenseID = 926676
+fcc_comment = Per case #HD0000003034096, licensee deceased 12/19/2013. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 4735
+       call = KC8FS
+       name = Fred
+    mbrdate = 16 Sep 2008
+    licName = SOPER, FREDERICK G
+        frn = 0002795573
+  licenseID = 3035930
+fcc_comment = Licensee deceased 3/30/11. rrw
+
+     skccnr = 5017
+       call = W5TU
+       name = Bob
+    mbrdate = 23 Dec 2008
+    licName = Jones, Robert C
+        frn = 0012838165
+  licenseID = 806989
+fcc_comment = Licensee deceased 11/12/12. License cancelled pursuant to 97.19(c)(3).rrw
+
+     skccnr = 5036T
+       call = K4DMU
+       name = Joe
+    mbrdate = 29 Dec 2008
+    licName = Leitsch, Joseph L
+        frn = 0002658326
+  licenseID = 244651
+fcc_comment = Licensee deceased 12/5/15.rrw
+
+     skccnr = 5109
+       call = W4USF
+       name = John
+    mbrdate = 08 Jan 2009
+    licName = GLOVER, GEORGE G
+        frn = 0003916137
+  licenseID = 801137
+fcc_comment = Licensee deceased 05/27/2006 (WT Docket 09-209). rrw
+
+     skccnr = 5138
+       call = N4LZY
+       name = Jerry
+    mbrdate = 13 Jan 2009
+    licName = Elkins, Jerry E
+        frn = 0010508455
+  licenseID = 690232
+fcc_comment = Per case 2603327, licensee deceased 8/29/15.rrw
+
+     skccnr = 5363
+       call = W5QP
+       name = Rick
+    mbrdate = 02 Mar 2009
+    licName = HENRY, RICHARD D
+        frn = 0004637211
+  licenseID = 2976011
+fcc_comment = Per case 594091, licensee deceased 3/15/16.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 5452
+       call = NP2CB
+       name = Bernie
+    mbrdate = 06 Apr 2009
+    licName = FARTHING, BERNIE C
+        frn = 0013523832
+  licenseID = 771946
+fcc_comment = Per case #HD0000002842106 licensee deceased August 25th, 2015. krk
+
+     skccnr = 5663
+       call = W2TN
+       name = Allan
+    mbrdate = 05 Jul 2009
+    licName = STEINFELD, ALLAN H
+        frn = 0015554280
+  licenseID = 789568
+fcc_comment = Per case #HD0000003028896, licensee deceased 01/24/2017. krk
+
+     skccnr = 5858
+       call = W1BG
+       name = Steve
+    mbrdate = 13 Sep 2009
+    licName = Fish, Stephen R
+        frn = 0006257679
+  licenseID = 2780234
+fcc_comment = Per case 2647970, licensee deceased 4/18/14.rrw
+
+     skccnr = 5893
+       call = W2KS
+       name = Ken
+    mbrdate = 26 Sep 2009
+    licName = Seil, Kenneth F
+        frn = 0015780687
+  licenseID = 787912
+fcc_comment = Licensee deceased 06/05/10. rrw
+
+     skccnr = 5990
+       call = NV0U
+       name = Randy
+    mbrdate = 09 Nov 2009
+    licName = RATHBUN, ROBERT R
+        frn = 0004703542
+  licenseID = 774372
+fcc_comment = Per case 2602273, licensee deceased 8/31/12.  License cancelled pursuant to 97.19(c)(3).rrw
+
+     skccnr = 6188
+       call = KO7X
+       name = Alan
+    mbrdate = 27 Dec 2009
+    licName = BRUBAKER, ALAN A
+        frn = 0005496484
+  licenseID = 619455
+fcc_comment = Licensee deceased on August 15th, 2015. krk
+
+     skccnr = 6252
+       call = K4IJ
+       name = Mike
+    mbrdate = 05 Jan 2010
+    licName = KNIGHT, MICHAEL N
+        frn = 0004776860
+  licenseID = 2469501
+fcc_comment = Per case 530462, licensee deceased 10/16/13.  License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 6336
+       call = W4EA
+       name = Dan
+    mbrdate = 14 Jan 2010
+    licName = NIXON, JAMES D
+        frn = 0010827814
+  licenseID = 796035
+fcc_comment = Licensee deceased 3/28/12. rrw
+
+     skccnr = 6402
+       call = W7BW
+       name = Phil
+    mbrdate = 26 Jan 2010
+    licName = RAND, PHILLIP A
+        frn = 0003705480
+  licenseID = 815703
+fcc_comment = Licensee deceased 5/19/11.rrw
+
+     skccnr = 6518T
+       call = W2ECK
+       name = Paul
+    mbrdate = 22 Feb 2010
+    licName = WINNE, ELEANOR B
+        frn = 0010921302
+  licenseID = 786298
+fcc_comment = Licensee deceased 01/17/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 6516
+       call = N6ZA
+       name = Adrian
+    mbrdate = 21 Feb 2010
+    licName = POLAND, STANLEY R
+        frn = 0005536628
+  licenseID = 723633
+fcc_comment = Licensee deceased 8/8/07 (WT Docket 09-209). rrw
+
+     skccnr = 6562
+       call = N9SXJ
+       name = Arthur
+    mbrdate = 06 Mar 2010
+    licName = SANDBERG, ARTHUR R
+        frn = 0009226994
+  licenseID = 763137
+fcc_comment = Licensee deceased 5/20/11. rrw
+
+     skccnr = 6602
+       call = K9CQ
+       name = Tim
+    mbrdate = 19 Mar 2010
+    licName = PUGLISE, JAMES D
+        frn = 0009408394
+  licenseID = 267635
+fcc_comment = Per case 2692773, licensee deceased 8/3/13. License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 6918
+       call = W0RON
+       name = Walter
+    mbrdate = 15 Jul 2010
+    licName = MOYE, WENCIL O
+        frn = 0002952489
+  licenseID = 779451
+fcc_comment = Licensee deceased 7/16/12 (WT Docket 09-209).rrw
+
+     skccnr = 7058
+       call = KG0V
+       name = Ray
+    mbrdate = 12 Sep 2010
+    licName = WEST, CHARLES A
+        frn = 0004218988
+  licenseID = 598981
+fcc_comment = Licensee deceased 6/20/10 (WT Docket 09-209). rrw
+
+     skccnr = 7176T
+       call = AI5I
+       name = Bill
+    mbrdate = 27 Oct 2010
+    licName = KIMBLE, FREDERICK B
+        frn = 0004477360
+  licenseID = 227635
+fcc_comment = Licensee deceased 12/10/08 (WT Docket 09-209). rrw
+
+     skccnr = 7184
+       call = K7QJ
+       name = Rob
+    mbrdate = 28 Oct 2010
+    licName = KWENTUS JR, HAROLD M
+        frn = 0008762924
+  licenseID = 261665
+fcc_comment = Licensee deceased 2/5/07 (WT Docket 09-209).rrw
+
+     skccnr = 7287
+       call = W4GBU
+       name = Guy
+    mbrdate = 27 Nov 2010
+    licName = Shields, Guy J
+        frn = 0003141264
+  licenseID = 796634
+fcc_comment = Licensee deceased 5/28/11. rrw
+
+     skccnr = 7332
+       call = WW2W
+       name = Tony
+    mbrdate = 08 Dec 2010
+    licName = Catalano, Anthony G
+        frn = 0005866132
+  licenseID = 936973
+fcc_comment = Per case 519070, licensee deceased 03/15/15. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 7355
+       call = K1ON
+       name = Larry
+    mbrdate = 12 Dec 2010
+    licName = SCARPA JR, LAWRENCE
+        frn = 0004483939
+  licenseID = 234815
+fcc_comment = Per case #HD0000545224, licensee deceased 03/17/2017. krk
+
+     skccnr = 7427
+       call = K8SWF
+       name = Roger
+    mbrdate = 31 Dec 2010
+    licName = Shirko, Roger P
+        frn = 0016815375
+  licenseID = 3672940
+fcc_comment = Per case #HD0000535097, licensee deceased 09/12/2018. krk
+
+     skccnr = 7435
+       call = K5MF
+       name = Tom
+    mbrdate = 01 Jan 2011
+    licName = FURR, JOHN R
+        frn = 0009526831
+  licenseID = 252502
+fcc_comment = Licensee deceased 8/21/12 (WT Docket 09-209).rrw
+
+     skccnr = 7494T
+       call = ND4K
+       name = Dave
+    mbrdate = 08 Jan 2011
+    licName = JEFFERIES, THEODORE R
+        frn = 0006891329
+  licenseID = 768553
+fcc_comment = Per case 2825321, licensee deceased 8/29/14. License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 7586
+       call = K4FGA
+       name = Bill
+    mbrdate = 22 Jan 2011
+    licName = Kress III, William R
+        frn = 0015926363
+  licenseID = 245132
+fcc_comment = Licensee deceased 02/20/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 7605
+       call = KB0PCI
+       name = Wayne
+    mbrdate = 23 Jan 2011
+    licName = BAST, WAYNE A
+        frn = 0002394575
+  licenseID = 332299
+fcc_comment = Licensee deceased 7/18/15.rrw
+
+     skccnr = 7825
+       call = W8LA
+       name = Vince
+    mbrdate = 20 Mar 2011
+    licName = FAULKNER, AUBREY V
+        frn = 0016504227
+  licenseID = 823215
+fcc_comment = Licensee deceased 2/8/12. rrw
+
+     skccnr = 7833
+       call = N5KEY
+       name = Love County Mercy Memorial Club
+    mbrdate = 21 Mar 2011
+    licName = KEY, MICHAEL W
+        frn = 0002504389
+  licenseID = 2499504
+fcc_comment = Licensee deceased 4/3/12. rrw
+
+     skccnr = 8101
+       call = K4LSM
+       name = John
+    mbrdate = 01 Jul 2011
+    licName = Pritchett, Fal J
+        frn = 0020217147
+  licenseID = 3284176
+fcc_comment = Licensee deceased 8/2/13.rrw
+
+     skccnr = 8182S
+       call = NA7C
+       name = Ted
+    mbrdate = 21 Jul 2011
+    licName = OLIN, CARL H
+        frn = 0018269555
+  licenseID = 767896
+fcc_comment = Licensee deceased 11/21/12. License cancelled in accordance with 97.19(c)(3). rrw
+
+     skccnr = 8343
+       call = W2QYT
+       name = Jack
+    mbrdate = 03 Sep 2011
+    licName = SMITH, JOHN H
+        frn = 0016585317
+  licenseID = 789081
+fcc_comment = Licensee deceased on 08/31/2017. krk
+
+     skccnr = 8371
+       call = W0BBO
+       name = Chuck
+    mbrdate = 08 Sep 2011
+    licName = EKLUND, ALFRED G
+        frn = 0005847272
+  licenseID = 775718
+fcc_comment = Licensee deceased 8/2/10. rrw
+
+     skccnr = 8408
+       call = AA4Y
+       name = Gary
+    mbrdate = 21 Sep 2011
+    licName = ROGERS, IRVIL G
+        frn = 0005946157
+  licenseID = 217392
+fcc_comment = Per Case HD0000555766, licensee deceased 3/28/18.rrw
+
+     skccnr = 8473
+       call = W2TI
+       name = Mike
+    mbrdate = 09 Oct 2011
+    licName = BELLOW, MICHAEL P
+        frn = 0004499646
+  licenseID = 3170082
+fcc_comment = Per case 519023, licensee deceased 11/29/14. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 8512
+       call = N4JF
+       name = Jerry
+    mbrdate = 25 Oct 2011
+    licName = FIORE SR, JEROME A
+        frn = 0002576510
+  licenseID = 688907
+fcc_comment = Per case #HD0000408356, licensee deceased 02/02/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 8588
+       call = K4BK
+       name = Ken
+    mbrdate = 15 Nov 2011
+    licName = JAQUEZ, LUIS A
+        frn = 0001859495
+  licenseID = 3210898
+fcc_comment = Licensee deceased 7/26/10 (WT Docket 09-209).rrw
+
+     skccnr = 8675
+       call = W4IV
+       name = Roger
+    mbrdate = 10 Dec 2011
+    licName = HUGHES, ROGER W
+        frn = 0010638971
+  licenseID = 797384
+fcc_comment = Per case #HD0000002962984, licensee deceased 10/17/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 8731
+       call = K4OL
+       name = Les
+    mbrdate = 23 Dec 2011
+    licName = WILDING, LESLIE J
+        frn = 0003449733
+  licenseID = 1069412
+fcc_comment = Per case #HD0000003034174, licensee deceased 06/11/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 8770
+       call = WA8PGE
+       name = Fred
+    mbrdate = 01 Jan 2012
+    licName = SAAS, FREDERICK L
+        frn = 0014403919
+  licenseID = 866518
+fcc_comment = Licensee deceased 3/26/15.rrw
+
+     skccnr = 8821
+       call = K5RM
+       name = John
+    mbrdate = 07 Jan 2012
+    licName = Smith, Lloyd N
+        frn = 0012166807
+  licenseID = 2813008
+fcc_comment = Licensee deceased 1/20/10. License cancelled in accordance with Commission rule 97.19(c)(3).rrw
+
+     skccnr = 8921
+       call = W6ZZ
+       name = Howard
+    mbrdate = 24 Jan 2012
+    licName = Pugsley, George D
+        frn = 0012261764
+  licenseID = 815266
+fcc_comment = Licensee deceased 11/15/14.rrw
+
+     skccnr = 8976
+       call = NI5O
+       name = Kevin
+    mbrdate = 03 Feb 2012
+    licName = PAXSON, KEVIN B
+        frn = 0006047997
+  licenseID = 2435453
+fcc_comment = Per case 594036, licensee deceased 11/7/15.  License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 8973
+       call = K1NZ
+       name = Nick
+    mbrdate = 02 Feb 2012
+    licName = CURWEN, WILLIAM L
+        frn = 0003702354
+  licenseID = 1170000
+fcc_comment = Per case 2690417, licensee deceased 2/12/12. License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 9309
+       call = W4AJT
+       name = Christian
+    mbrdate = 19 May 2012
+    licName = FIELDS SR, CHARLES W
+        frn = 0012410726
+  licenseID = 794926
+fcc_comment = Licensee deceased 5/6/15.rrw
+
+     skccnr = 9590
+       call = W2CKL
+       name = Bob
+    mbrdate = 12 Aug 2012
+    licName = Schertl II, Robert P
+        frn = 0017905746
+  licenseID = 3206547
+fcc_comment = Licensee deceased on 09/18/2017. krk
+
+     skccnr = 9605
+       call = W1KMG
+       name = Poverty Hill Amateur Radio Group
+    mbrdate = 19 Aug 2012
+    licName = Begley, Robert
+        frn = 0004913927
+  licenseID = 782966
+fcc_comment = Licensee deceased 10/4/10. rrw
+
+     skccnr = 9702
+       call = W2DL
+       name = Bob
+    mbrdate = 17 Sep 2012
+    licName = LAWSHE, DONALD E
+        frn = 0003413739
+  licenseID = 786143
+fcc_comment = Licensee deceased 04/20/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 9733T
+       call = W9AX
+       name = Bill
+    mbrdate = 26 Sep 2012
+    licName = SCHABEN, WILLIAM R
+        frn = 0010464774
+  licenseID = 826149
+fcc_comment = Per case #HD0000362737, licensee deceased 01/08/2017. krk
+
+     skccnr = 9731
+       call = NI4E
+       name = Eric
+    mbrdate = 26 Sep 2012
+    licName = Lassiter, Max E
+        frn = 0013258470
+  licenseID = 770039
+fcc_comment = Per case #HD0000464136, licensee deceased on 11/06/2017. krk
+
+     skccnr = 9794
+       call = K2AN
+       name = Lou
+    mbrdate = 17 Oct 2012
+    licName = CLARK, HOWARD C
+        frn = 0003564655
+  licenseID = 236415
+fcc_comment = Per Case 2539805, licensee deceased 9/6/11 cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 9805
+       call = NC5T
+       name = Bob
+    mbrdate = 19 Oct 2012
+    licName = ROBINSON, FRANKLIN P
+        frn = 0003554763
+  licenseID = 768350
+fcc_comment = Licensee deceased 2/9/10. rrw
+
+     skccnr = 9921
+       call = K2KP
+       name = Arek
+    mbrdate = 19 Nov 2012
+    licName = ROSSLEY, ROBERT R
+        frn = 0015517402
+  licenseID = 237995
+fcc_comment = Per case #HD0000002898616, licensee deceased 02/12/2007. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 9947T
+       call = W7ADM
+       name = Alan
+    mbrdate = 26 Nov 2012
+    licName = Bergum, Gordon B
+        frn = 0002729507
+  licenseID = 815315
+fcc_comment = Per case #HD0000002866390, licensee deceased 08/18/2009. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 10046
+       call = AA9PK
+       name = Dave
+    mbrdate = 20 Dec 2012
+    licName = WEINGART, DAVID T
+        frn = 0008513798
+  licenseID = 219977
+fcc_comment = Licensee deceased on December 3rd, 2015. krk
+
+     skccnr = 10134T
+       call = N5KS
+       name = KD
+    mbrdate = 06 Jan 2013
+    licName = MATHENY, GENE D
+        frn = 0003908555
+  licenseID = 702286
+fcc_comment = Licensee deceased 11/24/10 (WT Docket 09-209).rrw
+
+     skccnr = 10194
+       call = K8SX
+       name = Patrick
+    mbrdate = 15 Jan 2013
+    licName = DI GIACINTO, PATRICK P
+        frn = 0016173510
+  licenseID = 266115
+fcc_comment = Licensee deceased 6/5/15.rrw
+
+     skccnr = 10253
+       call = WW9E
+       name = Pat
+    mbrdate = 25 Jan 2013
+    licName = MC PHERSON, PATRICK E
+        frn = 0002191070
+  licenseID = 937203
+fcc_comment = Per case #HD00004066269, licensee deceased 05/14/2016. krk
+
+     skccnr = 10339
+       call = W5ZAX
+       name = David
+    mbrdate = 09 Feb 2013
+    licName = DARY Mr., DAVID A
+        frn = 0018036442
+  licenseID = 3040663
+fcc_comment = Licensee deceased on 03/15/2018. krk
+
+     skccnr = 10482
+       call = K2IOE
+       name = Tom
+    mbrdate = 16 Mar 2013
+    licName = WOODRUFF, THOMAS A
+        frn = 0017215567
+  licenseID = 3031644
+fcc_comment = Licensee deceased 6/20/14.rrw
+
+     skccnr = 10524
+       call = W5AUQ
+       name = Joe
+    mbrdate = 23 Mar 2013
+    licName = BRUNO, MICHAEL D
+        frn = 0015605074
+  licenseID = 802513
+fcc_comment = Licensee deceased 09/19/2009. rrw
+
+     skccnr = 10544
+       call = N5BE
+       name = Danny
+    mbrdate = 26 Mar 2013
+    licName = Richards, Daniel H
+        frn = 0002455780
+  licenseID = 2348102
+fcc_comment = Per case #HD0000002957815, licensee deceased on 09/30/2016. krk
+
+     skccnr = 10631
+       call = W2ETL
+       name = Diane
+    mbrdate = 18 Apr 2013
+    licName = MATTHEWS, ROBERT R
+        frn = 0015120413
+  licenseID = 786472
+fcc_comment = Licensee deceased 1/4/15. rrw
+
+     skccnr = 10632
+       call = K4MI
+       name = Will
+    mbrdate = 18 Apr 2013
+    licName = KEAR, JACK E
+        frn = 0009927716
+  licenseID = 247372
+fcc_comment = Licensee deceased 2/4/09 (WT Docket 09-209).rrw
+
+     skccnr = 10654
+       call = WE6L
+       name = Bob
+    mbrdate = 26 Apr 2013
+    licName = LO GRASSO, ROBERT C
+        frn = 0005915855
+  licenseID = 2950808
+fcc_comment = Licensee deceased 3/15/11. rrw
+
+     skccnr = 10655
+       call = NN7X
+       name = Lee
+    mbrdate = 29 Apr 2013
+    licName = TOWNE, STEPHEN R
+        frn = 0004441168
+  licenseID = 771624
+fcc_comment = Licensee deceased 6/19/07 (WT Docket 09-209). rrw
+
+     skccnr = 10690
+       call = KB4FZE
+       name = Robert
+    mbrdate = 09 May 2013
+    licName = JENNINGS II, ROBERT P
+        frn = 0015218050
+  licenseID = 357186
+fcc_comment = Licensee deceased 1/25/16.rrw
+
+     skccnr = 10710
+       call = N4BC
+       name = Dick
+    mbrdate = 12 May 2013
+    licName = LEA JR, LEACH L
+        frn = 0004418323
+  licenseID = 685451
+fcc_comment = Per case 2814050, licensee deceased 07/25/11. License cancelled pursuant to 97.19(c)(3).rrw
+
+     skccnr = 10727
+       call = AI2C
+       name = Norm
+    mbrdate = 16 May 2013
+    licName = STYER JR, NORMAN W
+        frn = 0015988520
+  licenseID = 227550
+fcc_comment = Per case 518989, licensee deceased 3/13/15. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 10767
+       call = W1SR
+       name = Steven
+    mbrdate = 27 May 2013
+    licName = Wood, George R
+        frn = 0003674546
+  licenseID = 784370
+fcc_comment = Licensee deceased 3/16/13.rrw
+
+     skccnr = 10968
+       call = W8FB
+       name = Bob
+    mbrdate = 03 Aug 2013
+    licName = YOUNG, RODNEY
+        frn = 0008676942
+  licenseID = 2708713
+fcc_comment = Licensee deceased 6/13/11 (WT Docket 09-209) per case 2298008.rrw
+
+     skccnr = 11131
+       call = K7RNO
+       name = Arno
+    mbrdate = 13 Sep 2013
+    licName = DIENHART, ARNO
+        frn = 0022443824
+  licenseID = 3491302
+fcc_comment = Licensee deceased 7/3/14.rrw
+
+     skccnr = 11185
+       call = K4NH
+       name = Toby
+    mbrdate = 02 Oct 2013
+    licName = RICE, HOWELL B
+        frn = 0004594487
+  licenseID = 247581
+fcc_comment = License deceased 9/7/11.rrw
+
+     skccnr = 11408
+       call = WW4N
+       name = Anthony
+    mbrdate = 26 Nov 2013
+    licName = RICKARD, CLIFFORD E
+        frn = 0018362053
+  licenseID = 937033
+fcc_comment = Licensee deceased 1/4/13.rrw
+
+     skccnr = 11459
+       call = N4AAA
+       name = Earl
+    mbrdate = 07 Dec 2013
+    licName = STRADLEY, CHARLES D
+        frn = 0014530042
+  licenseID = 684951
+fcc_comment = Licensee deceased 7/26/07 (WT Docket 09-209).rrw
+
+     skccnr = 11494
+       call = K3JH
+       name = John
+    mbrdate = 17 Dec 2013
+    licName = HERTOK, JAMES C
+        frn = 0003357803
+  licenseID = 241327
+fcc_comment = Licensee deceased 4/10/12. rrw
+
+     skccnr = 11511
+       call = AC2R
+       name = Rob
+    mbrdate = 21 Dec 2013
+    licName = DE LORENZO, JOHN R
+        frn = 0017440074
+  licenseID = 222900
+fcc_comment = Licensee deceased 04/04/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 11749
+       call = W8GU
+       name = Mark
+    mbrdate = 23 Jan 2014
+    licName = Adams, Robert M
+        frn = 0003247897
+  licenseID = 2714861
+fcc_comment = Licensee deceased 10/10/09. rrw
+
+     skccnr = 11814
+       call = W9TH
+       name = Jeff
+    mbrdate = 02 Feb 2014
+    licName = COOK, GLEN M
+        frn = 0005311717
+  licenseID = 829938
+fcc_comment = Licensee deceased 6/25/14. rrw
+
+     skccnr = 11822
+       call = K5BDJ
+       name = Ron
+    mbrdate = 03 Feb 2014
+    licName = BIGGERSTAFF, RON O
+        frn = 0006578710
+  licenseID = 250405
+fcc_comment = Per case #HD0000514975, licensee deceased on 07/03/2015. krk
+
+     skccnr = 11919
+       call = W1GO
+       name = Joseph
+    mbrdate = 17 Feb 2014
+    licName = PICKERING, THOMAS A
+        frn = 0007279839
+  licenseID = 782124
+fcc_comment = Licensee deceased 2/15/09 (WT Docket 09-209).rrw
+
+     skccnr = 12029T
+       call = W4SVA
+       name = Chris
+    mbrdate = 09 Mar 2014
+    licName = CARLISLE, FRANCIS J
+        frn = 0005148416
+  licenseID = 800597
+fcc_comment = Per Case 2622570, licensee deceased 3/2/12. License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 12071T
+       call = W4FS
+       name = Tucker
+    mbrdate = 19 Mar 2014
+    licName = GORLINSKY, VICTOR W
+        frn = 0004194288
+  licenseID = 796525
+fcc_comment = Per case 2582248, licensee deceased 8/12/12.  License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 12236
+       call = NN4E
+       name = David
+    mbrdate = 27 Apr 2014
+    licName = MC GLAMERY, WENDELL C
+        frn = 0003711801
+  licenseID = 771508
+fcc_comment = Licensee deceased 2/21/07 (WT Docket 09-209).rrw
+
+     skccnr = 12246
+       call = NZ4T
+       name = Richard
+    mbrdate = 28 Apr 2014
+    licName = WORD, DAVID A
+        frn = 0008619280
+  licenseID = 2993034
+fcc_comment = Per case #HD0000003043891, licensee deceased 10/16/2008. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 12391
+       call = N7PH
+       name = PJ
+    mbrdate = 30 May 2014
+    licName = HERBORN, PETER E
+        frn = 0001933423
+  licenseID = 731828
+fcc_comment = Per case #HD0000357658, licensee deceased 01/29/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 12412
+       call = K4RF
+       name = Dan
+    mbrdate = 07 Jun 2014
+    licName = ADAMS, STEVEN C
+        frn = 0003152964
+  licenseID = 248421
+fcc_comment = Licensee deceased 3/4/11 (WT Docket 09-209).rrw
+
+     skccnr = 12415
+       call = AK0W
+       name = Jason
+    mbrdate = 08 Jun 2014
+    licName = Sherwood, John W
+        frn = 0010330835
+  licenseID = 227998
+fcc_comment = Per Case 2612756, licensee deceased 3/10/13.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 12521
+       call = NC4Z
+       name = Roy
+    mbrdate = 01 Jul 2014
+    licName = STEFANICK, DAVID M
+        frn = 0011810546
+  licenseID = 768333
+fcc_comment = Licensee deceased 10/7/08 (WT Docket 09-209). rrw
+
+     skccnr = 12539
+       call = W7BZ
+       name = Mark
+    mbrdate = 07 Jul 2014
+    licName = STONE, KENNETH S
+        frn = 0014309660
+  licenseID = 815728
+fcc_comment = Per case 2758893, licensee deceased 2/10/10. License cancelled in accordance with Rule 97.19(c)(3).rrw
+
+     skccnr = 12643
+       call = N5KT
+       name = Gerald
+    mbrdate = 04 Aug 2014
+    licName = Louthan, Jack
+        frn = 0002451045
+  licenseID = 702302
+fcc_comment = Licensee deceased 6/5/09 (WT Docket 09-209).rrw
+
+     skccnr = 12648
+       call = W3CL
+       name = Greg
+    mbrdate = 05 Aug 2014
+    licName = LAGODA, CARL P
+        frn = 0003398344
+  licenseID = 790831
+fcc_comment = Licensee deceased 4/5/11 (WT Docket 09-209).rrw
+
+     skccnr = 12746
+       call = K4CMT
+       name = Mike
+    mbrdate = 31 Aug 2014
+    licName = SCHOENAUER, DALE H
+        frn = 0014582274
+  licenseID = 244345
+fcc_comment = Licensee deceased 7/21/12.rrw
+
+     skccnr = 12772
+       call = NT4Z
+       name = Robert
+    mbrdate = 13 Sep 2014
+    licName = Armstrong, Hugh
+        frn = 0006774954
+  licenseID = 774003
+fcc_comment = Licensee deceased 11/8/11. rrw
+
+     skccnr = 12894
+       call = N5YJ
+       name = Gene
+    mbrdate = 16 Oct 2014
+    licName = Chenette, Eugene R
+        frn = 0002301851
+  licenseID = 1083029
+fcc_comment = Per case 594004, licensee deceased 12/7/14  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 13006
+       call = N3HI
+       name = Ron
+    mbrdate = 14 Nov 2014
+    licName = SALERNO, PETER J
+        frn = 0015303217
+  licenseID = 673379
+fcc_comment = Per case 2851798, licensee deceased 1/6/14. License cancelled pursuant to Rule 97.19(c)(3).rrw
+
+     skccnr = 13084
+       call = N2AF
+       name = Rich
+    mbrdate = 03 Dec 2014
+    licName = Van Ness, Robert T
+        frn = 0010305126
+  licenseID = 655682
+fcc_comment = Per case 519156, licensee deceased 05/05/16. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 13222T
+       call = W0CD
+       name = Jamie
+    mbrdate = 28 Dec 2014
+    licName = Dewey Jr, Charles E
+        frn = 0002293769
+  licenseID = 775948
+fcc_comment = Per case #HD0000002866055, licensee deceased 03/16/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 13314
+       call = W8PZH
+       name = Norma
+    mbrdate = 08 Jan 2015
+    licName = STOFFER, NORMA J
+        frn = 0003396264
+  licenseID = 824340
+fcc_comment = Licensee deceased 4/28/15.rrw
+
+     skccnr = 13666
+       call = N6DTC
+       name = Simi Dave
+    mbrdate = 28 Feb 2015
+    licName = CHANDLER, DAVID T
+        frn = 0015847767
+  licenseID = 2900020
+fcc_comment = Licensee deceased 12/10/17.rrw
+
+     skccnr = 13827T
+       call = WU4F
+       name = Rob
+    mbrdate = 05 Apr 2015
+    licName = BRASOL SR, BASIL E
+        frn = 0017210261
+  licenseID = 936505
+fcc_comment = Per case 2694712, licensee deceased 9/23/10. License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 13857
+       call = W6FR
+       name = Phil
+    mbrdate = 09 Apr 2015
+    licName = GONSIOR Mr., MARWIN H
+        frn = 0002926715
+  licenseID = 809762
+fcc_comment = Per case 2582639, licensee deceased 4/26/11.  License cancelled in accordance with Rule 97.19(c)(3).rrw
+
+     skccnr = 14034
+       call = W5LIF
+       name = Steve
+    mbrdate = 26 May 2015
+    licName = LEWIS, DANA H
+        frn = 0008005589
+  licenseID = 804883
+fcc_comment = Licensee deceased 11/26/13.rrw
+
+     skccnr = 14077T
+       call = W4XX
+       name = QRU RC
+    mbrdate = 11 Jun 2015
+    licName = BAHNER, CARL J
+        frn = 0018049601
+  licenseID = 801823
+fcc_comment = Licensee deceased 10/20/14.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 14145
+       call = W5CCP
+       name = Craig
+    mbrdate = 25 Jun 2015
+    licName = BOYER, JOE A
+        frn = 0002284214
+  licenseID = 802805
+fcc_comment = Licensee deceased 6/22/11. rrw
+
+     skccnr = 14171
+       call = W3QN
+       name = Hal
+    mbrdate = 03 Jul 2015
+    licName = HOLLENBACH, HAROLD P
+        frn = 0004471520
+  licenseID = 1956408
+fcc_comment = Per case 604057, licensee deceased 5/24/2018.rrw
+
+     skccnr = 14189
+       call = W7XV
+       name = Steve
+    mbrdate = 09 Jul 2015
+    licName = Urie, Bill
+        frn = 0015832934
+  licenseID = 820362
+fcc_comment = Licensee deceased 10/15/10 (WT Docket 09-209). rrw
+
+     skccnr = 14225T
+       call = W4NG
+       name = Elton
+    mbrdate = 18 Jul 2015
+    licName = Tonjes, Earl W
+        frn = 0005347273
+  licenseID = 798812
+fcc_comment = Per case #HD0000002916351, licensee deceased 03/13/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 14257
+       call = K5CG
+       name = Danny
+    mbrdate = 29 Jul 2015
+    licName = GRIFFIN, CHARLES E
+        frn = 0015002819
+  licenseID = 250639
+fcc_comment = Licensee deceased 7/9/14. License cancelled pursuant to Rule 97.19(c)(3).rrw
+
+     skccnr = 14263
+       call = KL7DYS
+       name = Erik
+    mbrdate = 31 Jul 2015
+    licName = FUGLVOG, EDWIN O
+        frn = 0007238439
+  licenseID = 614446
+fcc_comment = Licensee deceased 10/24/02 (WT Docket 09-209). rrw
+
+     skccnr = 14274
+       call = W2CT
+       name = Ron
+    mbrdate = 04 Aug 2015
+    licName = WILCOX, FORREST S
+        frn = 0014652879
+  licenseID = 785989
+fcc_comment = Per case 2813171, licensee deceased 3/22/11. License cancelled pursuant to 97.19(c)(3).rrw
+
+     skccnr = 14447
+       call = W6GYC
+       name = Mike
+    mbrdate = 30 Sep 2015
+    licName = JONES, CALVIN N
+        frn = 0013993050
+  licenseID = 810108
+fcc_comment = Licensee deceased 4/28/08 (WT Docket 09-209).rrw
+
+     skccnr = 14490
+       call = KC8E
+       name = Bob
+    mbrdate = 13 Oct 2015
+    licName = BUTCHER, DALLAS T
+        frn = 0003241999
+  licenseID = 482292
+fcc_comment = Licensee deceased 1/19/13 (Rule 97.19(c)(3)).rrw
+
+     skccnr = 14510
+       call = K0DC
+       name = Jim
+    mbrdate = 20 Oct 2015
+    licName = CONNOLLY JR, DONALD H
+        frn = 0015788631
+  licenseID = 229190
+fcc_comment = Per case #HD0000431471, licensee deceased 12/18/2008. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 14644
+       call = AA7Z
+       name = Dick
+    mbrdate = 25 Nov 2015
+    licName = Moody, Ronald F
+        frn = 0017216680
+  licenseID = 219109
+fcc_comment = Per case #HD0000394161, licensee deceased 04/13/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 14694
+       call = W8LU
+       name = Lucas
+    mbrdate = 06 Dec 2015
+    licName = SCHANG, KENNETH W
+        frn = 0002777415
+  licenseID = 823452
+fcc_comment = Licensee deceased 10/6/10 (Rule 97.19(c)(3)).rrw
+
+     skccnr = 14725
+       call = K2ROC
+       name = Larry
+    mbrdate = 11 Dec 2015
+    licName = FREDRICKSON, THEODORE
+        frn = 0007260011
+  licenseID = 238987
+fcc_comment = Licensee deceased 12/3/12. rrw
+
+     skccnr = 14800S
+       call = K0RO
+       name = Ralph
+    mbrdate = 26 Dec 2015
+    licName = TRAMPLER, ARTHUR R
+        frn = 0003438181
+  licenseID = 2957436
+fcc_comment = Per Case 2612763, licensee deceased 10/8/12.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 14879
+       call = K1USA
+       name = Dale
+    mbrdate = 06 Jan 2016
+    licName = HAMMOCK, MARVIN M
+        frn = 0015440241
+  licenseID = 235731
+fcc_comment = Licensee deceased 03/18/11. rrw
+
+     skccnr = 15025
+       call = KA3LUN
+       name = Bryan
+    mbrdate = 22 Jan 2016
+    licName = KING, GARY W
+        frn = 0004001293
+  licenseID = 290980
+fcc_comment = Licensee deceased 5/31/13.rrw
+
+     skccnr = 15074
+       call = N4CDD
+       name = Jerry
+    mbrdate = 30 Jan 2016
+    licName = LOVETT, THOMAS K
+        frn = 0009858150
+  licenseID = 685884
+fcc_comment = Licensee deceased 3/1/14.rrw
+
+     skccnr = 15080
+       call = W2GT
+       name = Doug
+    mbrdate = 31 Jan 2016
+    licName = ALFANO, GEORGE
+        frn = 0004483574
+  licenseID = 786950
+fcc_comment = Licensee deceased 10/10/13.rrw
+
+     skccnr = 15193
+       call = N0CM
+       name = Rick
+    mbrdate = 21 Feb 2016
+    licName = MAY, CHARLES R
+        frn = 0001889898
+  licenseID = 627387
+fcc_comment = Licensee deceased 12/14/14.rrw
+
+     skccnr = 15270
+       call = KC5GUD
+       name = Dave
+    mbrdate = 11 Mar 2016
+    licName = CHAEL, DAVID T
+        frn = 0002264042
+  licenseID = 440782
+fcc_comment = Per case #HD0000390307, licensee deceased 11/04/2017. krk
+
+     skccnr = 15372
+       call = K8MPW
+       name = Bil
+    mbrdate = 30 Mar 2016
+    licName = JOHNSON SR, CLAUDE W
+        frn = 0014964266
+  licenseID = 265113
+fcc_comment = Licensee deceased 10/9/12 (Rule 97.19(c)(3)).rrw
+
+     skccnr = 15515
+       call = KM7J
+       name = Tony
+    mbrdate = 27 Apr 2016
+    licName = FORSHEE, AMIEL G
+        frn = 0014804918
+  licenseID = 616982
+fcc_comment = Licensee deceased 07/11/2016. krk
+
+     skccnr = 15556
+       call = K5LP
+       name = Jeremy
+    mbrdate = 04 May 2016
+    licName = Schuh, Richard A
+        frn = 0008505026
+  licenseID = 3204277
+fcc_comment = Per Case 2631366, licensee deceased 3/24/14.rw
+
+     skccnr = 15600
+       call = WT3W
+       name = Bruce
+    mbrdate = 14 May 2016
+    licName = BOLISH, TIMOTHY J
+        frn = 0005106935
+  licenseID = 936248
+fcc_comment = Licensee deceased 8/27/04 (WT Docket 09-209). rrw
+
+     skccnr = 15613
+       call = K6OF
+       name = Rodger
+    mbrdate = 16 May 2016
+    licName = GUMPERTZ, DONALD G
+        frn = 0004623393
+  licenseID = 257174
+fcc_comment = Per case 2582568, licensee deceased 4/28/12. License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 15728
+       call = K5RAB
+       name = Robb
+    mbrdate = 10 Jun 2016
+    licName = MONAGHAN, MARVIN D
+        frn = 0013766944
+  licenseID = 253155
+fcc_comment = Per case 2834729, licensee deceased 4/5/06. License cancelled pursuant to Rule 97.19(c)(3).rrw
+
+     skccnr = 15820S
+       call = W7EE
+       name = Gary
+    mbrdate = 05 Jul 2016
+    licName = JENSCH, GERHARD W
+        frn = 0015216013
+  licenseID = 816274
+fcc_comment = Per case #HD0000003021421, licensee deceased 02/21/2013. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 15862S
+       call = W1BV
+       name = Mike
+    mbrdate = 16 Jul 2016
+    licName = Hedlund, Gustav W
+        frn = 0010883163
+  licenseID = 3059681
+fcc_comment = Per case 544908, licensee deceased 5/14/16.rrw
+
+     skccnr = 15893
+       call = W7JG
+       name = Chuck
+    mbrdate = 23 Jul 2016
+    licName = KOHLER, DELPHIN G
+        frn = 0016078149
+  licenseID = 817617
+fcc_comment = Licensee deceased 6/12/12. rrw
+
+     skccnr = 16011
+       call = N7SD
+       name = Mori
+    mbrdate = 22 Aug 2016
+    licName = WACHTER, ERNEST C
+        frn = 0003079720
+  licenseID = 733455
+fcc_comment = Per case 2734484, licensee deceased 11/4/10. License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 16056
+       call = KC9PBQ
+       name = Jack
+    mbrdate = 02 Sep 2016
+    licName = LOWRY, JACK C
+        frn = 0018506006
+  licenseID = 3078202
+fcc_comment = Per case 2766512, licensee deceased 8/27/11.  License cancelled pursuant to FCC Rule 97.19(c)(3). rrw
+
+     skccnr = 16270S
+       call = N1FG
+       name = Larry
+    mbrdate = 20 Nov 2016
+    licName = FLAGG, GALE V
+        frn = 0003690138
+  licenseID = 2377985
+fcc_comment = Per case #HD0000545235, licensee deceased 04/17/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 16521
+       call = WZ4Q
+       name = Paul
+    mbrdate = 07 Jan 2017
+    licName = BURTON, RAYMOND V
+        frn = 0015642598
+  licenseID = 3139484
+fcc_comment = Per case #HD0000002937135, licensee deceased 07/29/2016. krk
+
+     skccnr = 16532
+       call = K1NA
+       name = Steve
+    mbrdate = 08 Jan 2017
+    licName = POWER JR, JAMES E
+        frn = 0003667953
+  licenseID = 1945808
+fcc_comment = Per case #HD0000002969436, licensee deceased 07/15/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 16654
+       call = NS7I
+       name = Carter
+    mbrdate = 23 Jan 2017
+    licName = HALL, PALMER
+        frn = 0012512224
+  licenseID = 773819
+fcc_comment = Licensee deceased 4/20/10 (Rule 97.19(c)(3)).rrw
+
+     skccnr = 16796
+       call = K5JC
+       name = Jerry
+    mbrdate = 22 Feb 2017
+    licName = CAMPBELL, GERALD W
+        frn = 0014492474
+  licenseID = 251869
+fcc_comment = Licensee deceased 2/3/09 (WT Docket 09-209). rrw
+
+     skccnr = 16835
+       call = W6JN
+       name = Michael
+    mbrdate = 02 Mar 2017
+    licName = KEMPER, JOHN P
+        frn = 0006939144
+  licenseID = 810849
+fcc_comment = Per case 2764770, licensee deceased 4/12/12.  License cancelled pursuant to FCC Rule 97.19(c)(3). rrw
+
+     skccnr = 16942
+       call = W3PR
+       name = Martin
+    mbrdate = 31 Mar 2017
+    licName = CRABTREE, GILES M
+        frn = 0007805583
+  licenseID = 793395
+fcc_comment = Licensee deceased 1/4/14.rrw
+
+     skccnr = 17022
+       call = N3PM
+       name = Mike
+    mbrdate = 22 Apr 2017
+    licName = Lovejoy, Joseph T
+        frn = 0010656387
+  licenseID = 678346
+fcc_comment = Licensee deceased 12/29/06 (WT Docket 09-209).rrw
+
+     skccnr = 17055
+       call = KM0G
+       name = Mike
+    mbrdate = 30 Apr 2017
+    licName = Ferguson, Douglas E
+        frn = 0010388452
+  licenseID = 615365
+fcc_comment = Per case #HD0000002907038, licensee deceased 03/22/2015. krk
+
+     skccnr = 17056
+       call = K0EW
+       name = Ken
+    mbrdate = 30 Apr 2017
+    licName = WILLIAMSON, EDWARD J
+        frn = 0017896382
+  licenseID = 229511
+fcc_comment = Per case #HD0000505712, licensee deceased 06/13/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17104T
+       call = WF4W
+       name = RJ
+    mbrdate = 11 May 2017
+    licName = WILLIAMSON JR, RONALD L
+        frn = 0014954119
+  licenseID = 924295
+fcc_comment = Licensee deceased 5/15/14.rrw
+
+     skccnr = 17208
+       call = N7JP
+       name = Jack
+    mbrdate = 01 Jun 2017
+    licName = Patrick, John C
+        frn = 0020343893
+  licenseID = 728495
+fcc_comment = Per case #HD0000357680, licensee deceased 06/27/2011. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17289
+       call = W6MZ
+       name = Paul
+    mbrdate = 28 Jun 2017
+    licName = QUINN, JOHN R
+        frn = 0010767804
+  licenseID = 811884
+fcc_comment = Licensee deceased 1/25/13.rrw
+
+     skccnr = 17311
+       call = W9RY
+       name = Thom
+    mbrdate = 05 Jul 2017
+    licName = BEEBE, HAROLD H
+        frn = 0017417882
+  licenseID = 829714
+fcc_comment = Licensee deceased 11/6/12. rrw
+
+     skccnr = 17371
+       call = N7WO
+       name = Zach
+    mbrdate = 25 Jul 2017
+    licName = OTTEN, WILBUR J
+        frn = 0002300739
+  licenseID = 736312
+fcc_comment = Per case #HD0000357648, licensee deceased 05/07/2016. krk
+
+     skccnr = 17446S
+       call = N3FZ
+       name = Bryan
+    mbrdate = 18 Aug 2017
+    licName = Zingel, Fritz
+        frn = 0004877486
+  licenseID = 2984116
+fcc_comment = Licensee deceased 08/09/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17535
+       call = W9EO
+       name = Eric
+    mbrdate = 10 Sep 2017
+    licName = Curry Sr, Robert W
+        frn = 0012795795
+  licenseID = 826951
+fcc_comment = Per case 2705411, licensee deceased 10/3/10. License cancelled in accordance with 97.19(c)(3).rrw
+
+     skccnr = 17586
+       call = K4BY
+       name = Bob
+    mbrdate = 27 Sep 2017
+    licName = GRADY, ROBERT F
+        frn = 0015471733
+  licenseID = 244179
+fcc_comment = Per case #HD0000003040228, licensee deceased 03/11/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17591
+       call = K0PD
+       name = David
+    mbrdate = 28 Sep 2017
+    licName = HUFF, LARRY C
+        frn = 0015517238
+  licenseID = 231174
+fcc_comment = Per case #HD0000002927932, licensee deceased 06/17/2013. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17598
+       call = K4SR
+       name = Brad
+    mbrdate = 30 Sep 2017
+    licName = BISHOP, RICHARD F
+        frn = 0009735176
+  licenseID = 248773
+fcc_comment = Licensee deceased 10/20/11 (WT Docket 09-209).rrw
+
+     skccnr = 17604C
+       call = WT4U
+       name = Brent
+    mbrdate = 30 Sep 2017
+    licName = EDWARDS, CARLTON L
+        frn = 0004139481
+  licenseID = 936278
+fcc_comment = Per case #HD0000441184, licensee deceased 01/28/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17612
+       call = AG5CC
+       name = Charlie
+    mbrdate = 02 Oct 2017
+    licName = Carney, Charles G
+        frn = 0019628361
+  licenseID = 3460560
+fcc_comment = Licensee deceased on 07/29/2018. krk
+
+     skccnr = 17618
+       call = K4TF
+       name = Bill
+    mbrdate = 05 Oct 2017
+    licName = WILLMOT, WILLIAM C
+        frn = 0003445764
+  licenseID = 248898
+fcc_comment = Per case 2850179, licensee deceased 10/12/15.rrw
+
+     skccnr = 17644
+       call = WZ7U
+       name = Eric
+    mbrdate = 09 Oct 2017
+    licName = Huettl, Daniel R
+        frn = 0016301400
+  licenseID = 937947
+fcc_comment = Licensee deceased 1/6/15.rrw
+
+     skccnr = 17645
+       call = KC5AD
+       name = Chris
+    mbrdate = 09 Oct 2017
+    licName = HOUGHTON JR, CHARLES W
+        frn = 0014947592
+  licenseID = 436670
+fcc_comment = Licensee deceased 06/01/2013. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17669
+       call = W9CM
+       name = Chad
+    mbrdate = 13 Oct 2017
+    licName = Mc Guyer, Clifford C
+        frn = 0014687727
+  licenseID = 826521
+fcc_comment = Per case #HD0000002891489, licensee deceased 08/18/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17705
+       call = WZ6K
+       name = Rich
+    mbrdate = 22 Oct 2017
+    licName = BOECK, GLENN M
+        frn = 0015108137
+  licenseID = 937912
+fcc_comment = Per case #HD0000003051216, licensee deceased 01/14/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17708
+       call = K4ME
+       name = Ben
+    mbrdate = 24 Oct 2017
+    licName = Schlegel, Carl J
+        frn = 0003490653
+  licenseID = 247341
+fcc_comment = Per case #HD0000003043620, licensee deceased 01/15/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17748
+       call = K4MV
+       name = Mark
+    mbrdate = 04 Nov 2017
+    licName = RHODES, EUGENE P
+        frn = 0009793431
+  licenseID = 247500
+fcc_comment = Per Case 2607533, licensee deceased 4/1/14.rrw
+
+     skccnr = 17986
+       call = WS6A
+       name = Chuck
+    mbrdate = 19 Dec 2017
+    licName = BREJSKA, DONALD J
+        frn = 0014011134
+  licenseID = 936052
+fcc_comment = Per case #HD0000347489, licensee deceased 12/31/2009. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 17995S
+       call = WA9VFD
+       name = Kevin
+    mbrdate = 20 Dec 2017
+    licName = MODEROW, ROBERT H
+        frn = 
+  licenseID = 870115
+fcc_comment = Per case #HD0000359221, licensee deceased on 10/29/2016. krk
+
+     skccnr = 18063
+       call = W3NV
+       name = Mike
+    mbrdate = 01 Jan 2018
+    licName = COOPER, FRANK W
+        frn = 0003627262
+  licenseID = 793165
+fcc_comment = Licensee deceased 1/10/13 (Rule 97.19(c)(3)).rrw
+
+     skccnr = 18111
+       call = W0AIH
+       name = Paul
+    mbrdate = 06 Jan 2018
+    licName = BITTNER, PAUL E
+        frn = 0002369320
+  licenseID = 775554
+fcc_comment = Per case #HD0000529196, licensee deceased on 10/31/2018. krk
+
+     skccnr = 18141
+       call = AD1I
+       name = Brian
+    mbrdate = 10 Jan 2018
+    licName = HARNOIS, MICHAEL D
+        frn = 0007477854
+  licenseID = 3174507
+fcc_comment = Licensee deceased 8/19/12.rrw
+
+     skccnr = 18225
+       call = N7WJ
+       name = Joey
+    mbrdate = 22 Jan 2018
+    licName = HATTALA, WINSTAN J
+        frn = 0002127553
+  licenseID = 736193
+fcc_comment = Per case #HD0000357650, licensee deceased 12/31/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18405
+       call = N4FA
+       name = Richard
+    mbrdate = 23 Feb 2018
+    licName = Horowitz, Martin H
+        frn = 0008360406
+  licenseID = 2701693
+fcc_comment = Licensee deceased 8/16/13.rrw
+
+     skccnr = 18430
+       call = N7YY
+       name = Dan
+    mbrdate = 28 Feb 2018
+    licName = MILLER, BERNARD G
+        frn = 0002180701
+  licenseID = 737850
+fcc_comment = Per case #HD0000357646, licensee deceased 08/17/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18552
+       call = K6ZX
+       name = Steve
+    mbrdate = 30 Mar 2018
+    licName = BECK, DOUGLAS K
+        frn = 0002058683
+  licenseID = 259156
+fcc_comment = Per case #HD0000513230, licensee deceased 02/28/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18576
+       call = W6PX
+       name = GW
+    mbrdate = 03 Apr 2018
+    licName = GONOS, PETER T
+        frn = 0002006765
+  licenseID = 1305825
+fcc_comment = Per case #HD0000003051224, licensee deceased 09/03/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18580
+       call = W1ND
+       name = Glen
+    mbrdate = 04 Apr 2018
+    licName = Kelly, Carolyn
+        frn = 0017633355
+  licenseID = 3077017
+fcc_comment = Per case #HD0000545212, licensee deceased 10/21/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18614
+       call = N5CM
+       name = John
+    mbrdate = 08 Apr 2018
+    licName = HICKMAN, KENNETH H
+        frn = 0002512234
+  licenseID = 698942
+fcc_comment = Per case #HD0000531787, licensee deceased 09/14/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18635
+       call = K4LV
+       name = Bill
+    mbrdate = 16 Apr 2018
+    licName = Moldt, Richard G
+        frn = 0005186507
+  licenseID = 247262
+fcc_comment = Per case #HD0000003043619, licensee deceased 01/05/2017. krk
+
+     skccnr = 18643
+       call = WB2UQP
+       name = Susan
+    mbrdate = 18 Apr 2018
+    licName = Bloomfield, Donald R
+        frn = 0017739434
+  licenseID = 880225
+fcc_comment = Licensee deceased 3/22/14.rrw
+
+     skccnr = 18659
+       call = K0AN
+       name = Bill
+    mbrdate = 23 Apr 2018
+    licName = GYGER, CAROLYN R
+        frn = 0018842468
+  licenseID = 228722
+fcc_comment = Per case 582357, licensee deceased 1/11/16. License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 18695
+       call = KZ4P
+       name = Brian
+    mbrdate = 03 May 2018
+    licName = GADEGBEKU, POLYCARP K
+        frn = 0019156991
+  licenseID = 626220
+fcc_comment = Per case #HD0000003034189, licensee deceased 07/28/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18710
+       call = WO5R
+       name = Bob
+    mbrdate = 10 May 2018
+    licName = MAGRO, JOSEPH P
+        frn = 0007040330
+  licenseID = 929418
+fcc_comment = Licensee deceased 6/3/11 (WT Docket 09-209).rrw
+
+     skccnr = 18739
+       call = AD6S
+       name = Mike
+    mbrdate = 17 May 2018
+    licName = Johansen, Bruce D
+        frn = 0003939873
+  licenseID = 2599562
+fcc_comment = Licensee deceased 5/12/11. License cancelled in accordance with Rule 97.19(c)(3).rrw
+
+     skccnr = 18750
+       call = K0JZ
+       name = Clarence
+    mbrdate = 20 May 2018
+    licName = ZIKE JR, JOHN R
+        frn = 0003582533
+  licenseID = 1095104
+fcc_comment = Licensee deceased 2/19/05 (WT Docket 09-209). rrw
+
+     skccnr = 18814
+       call = K6RP
+       name = Randy
+    mbrdate = 04 Jun 2018
+    licName = SHIPMAN, WENDELL R
+        frn = 0013733795
+  licenseID = 257850
+fcc_comment = Per case #HD0000340461, licensee deceased 06/07/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 18927
+       call = K0HAA
+       name = Nolan
+    mbrdate = 29 Jun 2018
+    licName = RAPPE, JIM W
+        frn = 0005009170
+  licenseID = 229874
+fcc_comment = Licensee deceased 8/14/11. rrw
+
+     skccnr = 18935
+       call = K8DY
+       name = Dan
+    mbrdate = 01 Jul 2018
+    licName = YOUNG, DAVID A
+        frn = 0017871781
+  licenseID = 263839
+fcc_comment = Per case #HD0000002973279, licensee deceased on 12/20/2016. krk
+
+     skccnr = 18994
+       call = K4FA
+       name = Bob
+    mbrdate = 18 Jul 2018
+    licName = BAKER, MURAT M
+        frn = 0007132624
+  licenseID = 245089
+fcc_comment = Licensee deceased 4/14/06 (WT Docket 09-209).rrw
+
+     skccnr = 19012
+       call = N2RC
+       name = Mike
+    mbrdate = 26 Jul 2018
+    licName = COLLIS JR, ROBERT W
+        frn = 0016164907
+  licenseID = 664262
+fcc_comment = Per case 519160, licensee deceased 01/26/14. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 19028
+       call = KR6G
+       name = Karl
+    mbrdate = 02 Aug 2018
+    licName = ALEXANDER, BILL G
+        frn = 0001931310
+  licenseID = 622685
+fcc_comment = Per case #HD0000003025751, licensee deceased 09/16/2014. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 19048
+       call = N4NN
+       name = Allen
+    mbrdate = 10 Aug 2018
+    licName = Conner, Gerald D
+        frn = 0005343132
+  licenseID = 2660493
+fcc_comment = Licensee deceased on 1/13/2017. krk
+
+     skccnr = 19106
+       call = K8BHS
+       name = Danny
+    mbrdate = 23 Aug 2018
+    licName = SIMMONS, JAMES
+        frn = 0003155694
+  licenseID = 263278
+fcc_comment = Licensee deceased 5/15/03 (WT Docket 09-209).rrw
+
+     skccnr = 19313
+       call = N4JW
+       name = Joe
+    mbrdate = 26 Oct 2018
+    licName = WALDREP, JAMES B
+        frn = 0015107758
+  licenseID = 689221
+fcc_comment = Per case 2830592, licensee deceased 9/9/15.rrw
+
+     skccnr = 19318
+       call = K5VC
+       name = Jerry
+    mbrdate = 28 Oct 2018
+    licName = AUSTIN, BOB A
+        frn = 0006262927
+  licenseID = 253845
+fcc_comment = Per case #HD0000479054, licensee deceased 07/29/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 19384
+       call = NN7E
+       name = Steve
+    mbrdate = 12 Nov 2018
+    licName = GOAR, RICHARD G
+        frn = 0009269960
+  licenseID = 771607
+fcc_comment = Per case #HD0000516188, licensee deceased 02/07/2016. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 19453
+       call = K2ZP
+       name = Les
+    mbrdate = 29 Nov 2018
+    licName = NOBLE, JAMES L
+        frn = 0004017547
+  licenseID = 239928
+fcc_comment = Per case #HD0000437187, licensee deceased 10/24/2009. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 19514
+       call = K1TQ
+       name = Sharie
+    mbrdate = 10 Dec 2018
+    licName = Brown Jr, H Walcott
+        frn = 0008974602
+  licenseID = 235589
+fcc_comment = Per case 2637088, licensee deceased 10/1/11. License cancelled in accordance with Rule 97.19(c)(3).rrw
+
+     skccnr = 19722
+       call = W1BX
+       name = Mike
+    mbrdate = 12 Jan 2019
+    licName = MC CARTER, CRAIG A
+        frn = 0015453715
+  licenseID = 781082
+fcc_comment = Per case number HD0000002799607, licensee deceased November 25th, 2009. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 19726
+       call = W5KY
+       name = Jesse
+    mbrdate = 13 Jan 2019
+    licName = NEIDEN, KAY E
+        frn = 0005619713
+  licenseID = 804788
+fcc_comment = Per case #HD0000351342, licensee deceased on 03/11/2016. krk
+
+     skccnr = 19750
+       call = K4QI
+       name = Chuck
+    mbrdate = 16 Jan 2019
+    licName = HOLSHOUSER JR, HOWARD E
+        frn = 0007436496
+  licenseID = 248237
+fcc_comment = Per case #HD0000003043724, licensee deceased 02/27/2015. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 19867
+       call = WA2AXB
+       name = Scott
+    mbrdate = 02 Feb 2019
+    licName = BANKS, JOHN C
+        frn = 0010344265
+  licenseID = 837240
+fcc_comment = Licensee deceased 7/23/05 (WT Docket 09-209).rrw
+
+     skccnr = 19955
+       call = K7UW
+       name = Mike
+    mbrdate = 16 Feb 2019
+    licName = PHELPS, ROBERT R
+        frn = 0001986413
+  licenseID = 262407
+fcc_comment = Per case #HD0000394586, licensee deceased 01/04/2013. License cancelled in accordance with FCC rule 97.19(c)(3). krk
+
+     skccnr = 20173
+       call = N2BN
+       name = Joe
+    mbrdate = 03 Apr 2019
+    licName = Zolkosky, Stephen J
+        frn = 0004879441
+  licenseID = 1957234
+fcc_comment = Per case 519157, licensee deceased 12/07/13. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 20187
+       call = KE7EX
+       name = Matt
+    mbrdate = 07 Apr 2019
+    licName = Conley, Edward J
+        frn = 0006988059
+  licenseID = 564482
+fcc_comment = Licensee deceased 10/26/2013.rrw
+
+     skccnr = 20193T
+       call = K3SW
+       name = Steve
+    mbrdate = 11 Apr 2019
+    licName = KULP, JAMES D
+        frn = 0004002259
+  licenseID = 242742
+fcc_comment = Licensee deceased 08/05/13.rrw
+
+     skccnr = 20223
+       call = W8HK
+       name = Scott
+    mbrdate = 15 Apr 2019
+    licName = LAMMI, JOHN E
+        frn = 0017875253
+  licenseID = 822268
+fcc_comment = Per case 570173, licensee deceased 6/10/11.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
+
+     skccnr = 20269
+       call = KI2N
+       name = Mark
+    mbrdate = 17 Apr 2019
+    licName = FORBES, THOMAS J
+        frn = 0003099439
+  licenseID = 607172
+fcc_comment = Per case 519009, licensee deceased 7/18/13. License cancelled in accordance with FCC rule 97.19(c)(3). rrw
+
+     skccnr = 20285
+       call = AG4E
+       name = Bob
+    mbrdate = 18 Apr 2019
+    licName = HEINTZELMAN, KIPP
+        frn = 0003131984
+  licenseID = 3382495
+fcc_comment = Per case 530458, licensee deceased 5/28/13.License cancelled in accordance with FCC Rule 97.13(c)(3).rrw
+
+     skccnr = 20347
+       call = W7VQ
+       name = Rick
+    mbrdate = 20 Apr 2019
+    licName = BAIN, KENNETH A
+        frn = 0015814007
+  licenseID = 820142
+fcc_comment = Per case #HD0000357688, licensee deceased 06/26/2016. krk
+
+     skccnr = 20620
+       call = K4FZO
+       name = Ray
+    mbrdate = 08 Jun 2019
+    licName = SIMMONS, RAYMOND F
+        frn = 0005894274
+  licenseID = 245350
+fcc_comment = Licensee deceased 6/10/14.rrw
+
+     skccnr = 20655
+       call = W6NKR
+       name = James
+    mbrdate = 14 Jun 2019
+    licName = Henson, Marion J
+        frn = 0002037406
+  licenseID = 812023
+fcc_comment = Per case 585862, licensee deceased 4/29/09.  License cancelled in accordance with FCC Rule 97.19(c)(3).rrw
