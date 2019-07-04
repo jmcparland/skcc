@@ -1,0 +1,25 @@
+https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=737850
+https://wireless2.fcc.gov/UlsApp/UlsSearch/licenseAdminSum.jsp?licKey=737850
+
+Comments
+10/12/2017 	Per case #HD0000357646, licensee deceased 08/17/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk  
+
+
+"licDetailURL":"http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?__newWindow=false&licKey=3609336"
+
+-->
+
+https://wireless2.fcc.gov/UlsApp/UlsSearch/licenseAdminSum.jsp?licKey=3609336
+
+https://www.google.com/search?q=python+html+beautifulsoup&oq=python+html+bea&aqs=chrome.2.0j69i57j0l4.6098j0j7&sourceid=chrome&ie=UTF-8
+
+
+>>> import requests
+>>> from bs4 import BeautifulSoup
+
+>>> rr=requests.get("https://wireless2.fcc.gov/UlsApp/UlsSearch/licenseAdminSum.jsp?licKey=737850")
+>>> soup=BeautifulSoup(rr.text)
+soup.body.findAll(text=re.compile("deceased", re.I))
+['\r\n          Per case #HD0000357646, licensee deceased 08/17/2012. License cancelled in accordance with FCC rule 97.19(c)(3). krk                                                                                                                                           \xa0\r\n          ']
+>>> 
+
