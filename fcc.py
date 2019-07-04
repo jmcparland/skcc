@@ -41,7 +41,8 @@ def licenseHasSkNotation(licenseID):
 	rr = requests.get(FCCURL)
 	response = {"status":rr.status_code}
 	if rr.status_code != 200:
-		return
+		response["sk_comments"] = []
+		return response
 
 	soup = BeautifulSoup(rr.text, features="html.parser")
 	response["sk_comments"] = soup.body.findAll(text=re.compile("deceased", re.I))
